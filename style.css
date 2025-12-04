@@ -5,3 +5,8 @@ margin:0;
 height:100px;
 background-color:#000;
 }
+.header-title{
+fint-size:25px;
+color: white;
+line-height:1.2;
+}
